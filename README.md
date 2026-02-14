@@ -10,16 +10,10 @@ CloudNest is a powerful, secure, and scalable personal cloud storage platform de
 🚀 **Live Application:**  
 👉 https://cloud-nest-frontend.vercel.app/
 
----
-
 ## 📸 Product Preview
 
-<!-- Add screenshots here -->
-<!-- Example:
-![Dashboard](./screenshots/dashboard.png)
--->
+![CloudNest Application Preview](./cloudnest-full-preview.png)
 
----
 
 # 🏗️ System Architecture
 
